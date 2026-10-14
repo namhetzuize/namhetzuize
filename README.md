@@ -17,7 +17,7 @@
 
 <p>
   
-  <img src="https://komarev.com/ghpvc/?username=namhetzuize&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge&v=2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=namhetzuize&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge&v=3" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/namhetzuize?label=FOLLOWERS&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
 </p>
 
