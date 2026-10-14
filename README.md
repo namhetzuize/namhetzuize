@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/namyus"><img src="https://img.shields.io/badge/GitHub-namyus-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/namyus"><img src="https://komarev.com/ghpvc/?username=namyus&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nam-phuong-4b76513a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/share/1RfiJ12Ei2/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook" alt="Facebook" /></a>
   <a href="mailto:namp49229@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email" /></a>
@@ -39,7 +39,7 @@ Hi there! I'm **Nguyễn Đặng Phương Nam**, a Software Engineering graduate
 - 🛠️ **Interested In:** Java/Spring Boot, C#/.NET, Javascript/React js|Vue js, RESTful APIs, database design, and cloud deployment.
 - 🌱 **Currently Learning:** Clean Architecture, software design principles, automated testing, and system design.
 - 🎯 **Career Goal:** To grow into a Senior Software Developer by continuously improving my problem-solving skills and learning to design, build, and maintain reliable software systems.
-- ⚡ **Fun Fact:** [Your hobby or something unique about you]
+- ⚡ **Fun Fact:** Cooking, eating, and gaming are some of my everyday hobbies that I usually do when I'm free, and the sport I like the most is athletics.
 
 > 💡 *Great software is built one thoughtful improvement at a time.*
 
