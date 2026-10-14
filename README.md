@@ -16,12 +16,13 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=namyus&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/namyus?label=FOLLOWERS&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
+  
+  <img src="https://komarev.com/ghpvc/?username=namhetzuize&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/namhetzuize?label=FOLLOWERS&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
 </p>
 
 <p>
-  <a href="https://github.com/namyus"><img src="https://komarev.com/ghpvc/?username=namyus&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://github.com/namhetzuize"><img src="https://img.shields.io/badge/GitHub-namhetzuize-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nam-phuong-4b76513a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/share/1RfiJ12Ei2/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook" alt="Facebook" /></a>
   <a href="mailto:namp49229@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email" /></a>
