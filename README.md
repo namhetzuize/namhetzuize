@@ -16,8 +16,7 @@
 </a>
 
 <p>
-  
-  <img src="https://komarev.com/ghpvc/?username=namhetzuize&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge&v=3" alt="Profile views" />
+  <img src="https://github-view-counter.vercel.app/api?username=namhetzuize&label=PROFILE+VIEWS%3A&color=ffffff&iconColor=ffffff&bgColor=rgba(55,65,81,1)&labelBgColor=rgba(127,0,255,0.9)&layout=split&style=square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/namhetzuize?label=FOLLOWERS&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
 </p>
 
